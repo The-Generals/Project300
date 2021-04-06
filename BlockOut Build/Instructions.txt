@@ -1,0 +1,21 @@
+Block Party is a Scuffed Fall Guys Clone with Couch Co-op.
+So this is what I and my group made for our final game project for my college course it's pretty scuffed but I'm happy with the results just uploading it here so you guys can try it out 
+Install instructions
+* Download .zip file
+* Place in a folder on you desktop
+* Right click > Extract Here
+* Double click on WindowsNoEditor
+* Double click on BlockOut.exe
+*  Enjoy
+
+?
+* Controls
+* Interact = F Key or X /Square button
+* Ragdool = Ctrl /  Y /Trangle button
+* Get up = R Key /Right Bumper
+* Aim Down Sight = Right Mouse button / Left bumper
+* ?Emote = B Key / Left Dpad
+* View Scores = Tab /  Right Dpad 
+* Pause Menu =  Esc OR P Key/ Start
+
+
